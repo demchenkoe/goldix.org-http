@@ -1,0 +1,27 @@
+{
+  "name": "@goldix.org/http",
+  "version": "0.0.1",
+  "description": "Http transport for Controller/Action case.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demchenkoe/goldix.org-http.git"
+  },
+  "keywords": [
+    "goldix.org",
+    "http",
+    "transport"
+  ],
+  "author": "Eugene Demchenko <demchenkoev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/goldix.org-http/issues"
+  },
+  "homepage": "https://github.com/demchenkoe/goldix.org-http#readme"
+}
