@@ -1,6 +1,6 @@
 {
   "name": "@goldix.org/http",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Http transport for Controller/Action case.",
   "main": "index.js",
   "directories": {
@@ -25,6 +25,8 @@
   },
   "homepage": "https://github.com/demchenkoe/goldix.org-http#readme",
   "dependencies": {
+    "@goldix.org/utils": "0.0.1",
+    "@goldix.org/logger-console": "0.0.5",
     "body-parser": "^1.18.2",
     "cookie-parser": "^1.4.3",
     "express": "^4.16.3"
